@@ -1,0 +1,8 @@
+{
+  "name": "Skříňátor 1",
+  "description": "Mobilní aplikace pro organizaci domácnosti. Vyfoťte své skříně a AI automaticky rozpozná police a jejich obsah, což vám umožní snadno vyhledávat věci v celém bytě.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
